@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/profile_tony-phong/static/css/main.fdd0d168.css",
+    "main.js": "/profile_tony-phong/static/js/main.14390ab0.js",
+    "static/js/787.f2a0fa2f.chunk.js": "/profile_tony-phong/static/js/787.f2a0fa2f.chunk.js",
+    "static/media/phong2.png": "/profile_tony-phong/static/media/phong2.8e709ea80a813b65bec5.png",
+    "static/media/phong3.png": "/profile_tony-phong/static/media/phong3.001c767a07a04bc72d2b.png",
+    "static/media/carina.png": "/profile_tony-phong/static/media/carina.3119c875e468a1d6bdec.png",
+    "static/media/project3.png": "/profile_tony-phong/static/media/project3.a598e11fcbe217827c9d.png",
+    "static/media/project2.png": "/profile_tony-phong/static/media/project2.f823e8b9f81211edad05.png",
+    "static/media/icon-react.png": "/profile_tony-phong/static/media/icon-react.885778c4c1d2856e1ea1.png",
+    "static/media/logo.svg": "/profile_tony-phong/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/profile_tony-phong/index.html",
+    "main.fdd0d168.css.map": "/profile_tony-phong/static/css/main.fdd0d168.css.map",
+    "main.14390ab0.js.map": "/profile_tony-phong/static/js/main.14390ab0.js.map",
+    "787.f2a0fa2f.chunk.js.map": "/profile_tony-phong/static/js/787.f2a0fa2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdd0d168.css",
+    "static/js/main.14390ab0.js"
+  ]
+}
