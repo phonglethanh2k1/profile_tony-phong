@@ -22,7 +22,10 @@ const Contact = () => {
           rows="10"
           placeholder="Your Message"
         />
-        <input type="submit" value="Send Message" className="btn" />
+        <a href="mailto:phonglethanh2k1@gmail.com" className="btn">
+          Send Message
+        </a>
+        .
       </form>
     </section>
   );

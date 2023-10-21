@@ -63,7 +63,7 @@ const Banner = () => {
             experience.
           </p>
           <div className="social-media">
-            <a href="">
+            <a href="https://www.facebook.com/profile.php?id=100009730098747">
               <i class="bx bxl-facebook"></i>
             </a>
             <a href="">
@@ -76,7 +76,9 @@ const Banner = () => {
               <i class="bx bxl-linkedin"></i>
             </a>
           </div>
-          <a className="btn">Download CV</a>
+          <a className="btn" href="cv-phonglt.pdf" download="cv-phonglt.pdf">
+            Download CV
+          </a>
         </h3>
       </div>
       <div className="home-img" ref={bannerImgRef}>

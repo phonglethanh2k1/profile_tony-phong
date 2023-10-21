@@ -13,6 +13,7 @@ const About = () => {
       distance: "80px",
       delay: 200,
       origin: "top",
+      mobile: false,
     });
     sr.reveal(aboutImg.current, {
       reset: true,
