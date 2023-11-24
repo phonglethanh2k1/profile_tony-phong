@@ -76,7 +76,7 @@ const Banner = () => {
               <i class="bx bxl-linkedin"></i>
             </a>
           </div>
-          <a className="btn" href="cv-phonglt.pdf" download="cv-phonglt.pdf">
+          <a className="btn" href="cv-phong.pdf" download="cv-phong.pdf">
             Download CV
           </a>
         </h3>
